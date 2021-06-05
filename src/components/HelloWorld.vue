@@ -90,7 +90,7 @@
                 <div class="mu-about-header">
                   <h2 class="mu-heading-title">QUEM SOMOS</h2>
                   <span class="mu-header-dot"></span>
-                  <p>
+                  <p align="justify">
                     A <b>família do Bem</b> deu início no dia
                     <b>17 de Junho de 2020</b>, após uma conversa que nosso
                     representante teve com um colega. Seu colega enviou um vídeo
@@ -98,28 +98,28 @@
                     trabalhando como motoboy e que nessa pandemia os pedidos
                     tinham tido um aumento bem significativo (algo bastante
                     positivo, pois estava conseguindo ajudar dentro de casa).
+                  </p>
+
+                  <p align="justify">
                     Porém tudo resolveu mudar quando em uma de suas entregas,
                     ele é roubado e perde sua moto. Moto essa que ele juntou
                     dinheiro com o emprego anterior para compra-la. Perdido a
                     moto, acabou perdendo o emprego também. E assim, estava
-                    tendo que recolher recicláveis para ajudar em casa. Isso
-                    muito comoveu o nosso representante e de imediato, ele
-                    pensou em criar um projeto social para ajudar esse rapaz. E
-                    aí nasceu a <b>Família do Bem</b>, um projeto social que
-                    busca ajudar pessoas que estão passando por dificuldades,
+                    tendo que recolher recicláveis para ajudar em casa.
+                  </p>
+
+                  <p align="justify">
+                    Isso muito comoveu o nosso representante e de imediato, ele
+                    pensou em criar um projeto social para ajudar esse rapaz.
+
                     <b
-                      >arrecadando alimentos não perecíveis e distribuindo
-                      cestas básicas para ajudar essas famílias</b
-                    >. O projeto também arrecada roupas para doações. O projeto
-                    começou no WhatsApp, onde temos o grupo de colaboradores,
-                    grupo de representantes e grupo de pessoas que necessitam da
-                    nossa colaboração.<b>
-                      O projeto se expandiu para o Instagram, onde nossa conta é
-                      para contato com as pessoas que quiserem fazer parte do
-                      grupo de colaboradores, ou que precisarem da ajuda do
-                      projeto.</b
+                      >E aí nasceu a Família do Bem, um projeto social que busca
+                      ajudar pessoas que estão passando por dificuldades,
+                      arrecadando alimentos não perecíveis e distribuindo cestas
+                      básicas para ajudar essas famílias.</b
                     >
                   </p>
+                  <br />
                 </div>
               </div>
             </div>
@@ -165,9 +165,14 @@
                           <h3>Nos acompanhe em nossas redes</h3>
 
                           <!--<a href="#"><i class="fa fa-facebook"></i></a>-->
-                          <a href="#"><i class="fa fa-instagram"></i></a>
                           <a
-                            href="https://api.whatsapp.com/send?phone=27988761587&text=Ol%C3%A1!"
+                            href="https://www.instagram.com/familia.do.bemes/"
+                            target="_blank"
+                            ><i class="fa fa-instagram"></i
+                          ></a>
+                          <a
+                            href="https://api.whatsapp.com/send?phone=5527988761587&text=Ol%C3%A1!"
+                            target="_blank"
                             ><i class="fa fa-whatsapp" target="_blank"></i
                           ></a>
                         </div>
@@ -240,7 +245,8 @@
                               <div class="mu-icon">
                                 <i class="fa fa-phone"></i>
                               </div>
-                              <p>27 988761587</p>
+                              <p>+5527 9-8876-1587</p>
+                              <p>+5527 9-9752-3236</p>
                             </div>
                           </div>
                           <div class="col-sm-4">
@@ -263,6 +269,7 @@
                           method="post"
                           action="mailer.php"
                           class="mu-contact-form"
+                          data-netlify="true"
                         >
                           <div class="form-group">
                             <input
@@ -278,7 +285,7 @@
                             <input
                               type="email"
                               class="form-control"
-                              placeholder="Enter Email"
+                              placeholder="Email"
                               id="email"
                               name="email"
                               required
@@ -287,7 +294,7 @@
                           <div class="form-group">
                             <textarea
                               class="form-control"
-                              placeholder="Message"
+                              placeholder="Mensagem"
                               id="message"
                               name="message"
                               required
