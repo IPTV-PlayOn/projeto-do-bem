@@ -1075,7 +1075,7 @@ button:focus {
 .mu-footer-area{
 	display: inline;
 	float: left;
-	padding: 30px 0;
+	padding: 30px;
 	text-align: center;
 	width: 100%;
 }
@@ -1392,4 +1392,21 @@ h1{
 	color: #006eff;
 }
 
+#subirTopo {
+text-decoration: none;
+margin: 10px;
+background: #ee81bd;
+display:block;
+color: #fff;
+text-align: center;
+cursor: pointer;
+padding: 15px;
+font-size: 15px;
+font-weight: bold;
+text-transform: uppercase;
+position: relative;
+border: 0;
+font-family: sans-serif;
+opacity: .8;
+}
 

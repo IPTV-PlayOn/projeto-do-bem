@@ -35,7 +35,7 @@
                 <li><a href="#">Home</a></li>
                 <li><a href="#mu-about">Quem somos</a></li>
                 <li><a href="#mu-service">O que fazemos</a></li>
-                <li><a href="#mu-act">Doações</a></li>
+                <li><a href="#mu-portfolio">Doações</a></li>
                 <li><a href="#mu-contact">Contato</a></li>
               </ul>
             </div>
@@ -138,10 +138,10 @@
                   <h2 class="mu-heading-title">O QUE FAZEMOS</h2>
                   <span class="mu-header-dot"></span>
                   <p>
-                    Nós realizamos dois trabalhos: arrecadações de
-                    roupas(estando em boas condições para serem doadas,
-                    aceitamos de todo o coração) e também doações de alimentos
-                    não perecíveis.
+                    Nós realizamos dois trabalhos: arrecadações de roupas
+                    (estando em boas condições para serem doadas, aceitamos de
+                    todo o coração) e também doações de alimentos não
+                    perecíveis.
                   </p>
                 </div>
 
@@ -185,9 +185,8 @@
         </div>
       </section>
       <!-- End About -->
-      <!-- End Service -->
 
-      <section id="#mu-act">
+      <section id="#mu-portfolio">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
