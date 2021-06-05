@@ -59,6 +59,8 @@
               <!-- Start text slide -->
               <div class="mu-featured-slider-wrapper">
                 <div class="mu-featured-slider" id="typed-strings">
+                <br>
+                <br>
                   <span>Nosso combustível é a solidariedade.</span>
                 </div>
                 <span id="typed"></span>
