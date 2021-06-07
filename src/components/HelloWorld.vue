@@ -157,7 +157,7 @@
                       <div class="mu-about-content-left">
                         <img
                           class="mu-profile-img"
-                          src="assets/images/picPayCapa.png"
+                          src="assets/images/WhatsApp-Image.jpeg"
                           alt="Profile Image"
                         />
                       </div>
