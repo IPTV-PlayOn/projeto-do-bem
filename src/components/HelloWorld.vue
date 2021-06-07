@@ -35,7 +35,7 @@
                 <li><a href="#">Home</a></li>
                 <li><a href="#mu-about">Quem somos</a></li>
                 <li><a href="#mu-service">O que fazemos</a></li>
-                <li><a href="#mu-portfolio">Doações</a></li>
+                <li><a href="#mu-service">Doações</a></li>
                 <li><a href="#mu-contact">Contato</a></li>
               </ul>
             </div>
@@ -54,15 +54,15 @@
         <div class="row">
           <div class="col-md-12">
             <div class="mu-featured-area">
-             <br>
-                <br>
+              <br />
+              <br />
               <h1>Família do Bem</h1>
 
               <!-- Start text slide -->
               <div class="mu-featured-slider-wrapper">
                 <div class="mu-featured-slider" id="typed-strings">
-                <br>
-                <br>
+                  <br />
+                  <br />
                   <span>Nosso combustível é a solidariedade.</span>
                 </div>
                 <span id="typed"></span>
@@ -70,7 +70,7 @@
               <!-- Start text slide -->
 
               <div class="mu-featured-content">
-                <a href="#mu-portfolio" class="mu-primary-btn view-my-work-btn"
+                <a href="#mu-service" class="mu-primary-btn view-my-work-btn"
                   >Faça uma doação</a
                 >
               </div>
@@ -182,7 +182,9 @@
                         </div>
 
                         <!-- Download Ressume Button -->
-                        <a href="#" class="mu-resume-btn">Faça uma doação</a>
+                        <a href="#mu-service" class="mu-resume-btn"
+                          >Faça uma doação</a
+                        >
                       </div>
                     </div>
                   </div>
@@ -195,7 +197,7 @@
       </section>
       <!-- End About -->
 
-      <section id="#mu-portfolio">
+      <section id="mu-service">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -207,6 +209,9 @@
                     estão passando por dificuldades, na situação atual. Venha
                     colaborar com a gente.
                   </h1>
+                  <a href="#mu-service" class="mu-resume-btn"
+                    >Faça uma doação</a
+                  >
                 </div>
               </div>
             </div>
