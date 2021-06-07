@@ -203,12 +203,19 @@
             <div class="col-md-12">
               <div class="mu-about-area">
                 <div class="mu-about-header">
-                  <h1>
-                    A Família do Bem é um projeto social formado por um grupo de
-                    colaboradores, que tem o objetivo de ajudar pessoas que
-                    estão passando por dificuldades, na situação atual. Venha
-                    colaborar com a gente.
-                  </h1>
+                  <!-- Start text slide -->
+                  <div class="mu-featured-slider-wrapper">
+                    <div class="mu-featured-slider" id="typed-strings">
+                      <h1>
+                        A Família do Bem é um projeto social formado por um
+                        grupo de colaboradores, que tem o objetivo de ajudar
+                        pessoas que estão passando por dificuldades, na situação
+                        atual. Venha colaborar com a gente.
+                      </h1>
+                    </div>
+
+                    <span id="typed"></span>
+                  </div>
                   <a href="#mu-service" class="mu-resume-btn"
                     >Faça uma doação</a
                   >
